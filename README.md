@@ -32,7 +32,7 @@ The objective was to transform raw transactional data into actionable business i
   - Customer retention rate (6 months)
   - Top customers per year using window functions
 
-- Tools & Technologies Used
+Tools & Technologies Used
   - SQL (MySQL):	Data extraction, joins, aggregations, window functions
   - Python (Pandas, NumPy):	Data manipulation and validation
 
