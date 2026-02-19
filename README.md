@@ -99,5 +99,6 @@ This project demonstrates:
 It reflects real-world data analyst problem-solving skills.
 
 <b>Conclusion</b>
+
 This project successfully transformed raw transactional data into meaningful insights through structured analysis and cross-platform validation.
 By combining SQL and Python, the analysis ensures both computational accuracy and business relevance, making it suitable for production-level analytics and strategic decision-making.
