@@ -33,8 +33,8 @@ The objective was to transform raw transactional data into actionable business i
   - Top customers per year using window functions
 
 - Tools & Technologies Used
- - SQL (MySQL):	Data extraction, joins, aggregations, window functions
- - Python (Pandas, NumPy):	Data manipulation and validation
+  - SQL (MySQL):	Data extraction, joins, aggregations, window functions
+  - Python (Pandas, NumPy):	Data manipulation and validation
 
 <b>Data Analysis Approach</b>
 
